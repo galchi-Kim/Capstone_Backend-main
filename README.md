@@ -1,3 +1,12 @@
+##커밋
+초기 커밋 실수로,,
+server.js
+lessonRoutes.js
+controllers/lessonController.js
+routes/userRoutes.js 생성
+이렇게 수정한듯 합니다..
+
+
 ## 현재 개발 상황
 로그인화면(Login.js)에서 DB에 저장되어 있는 이메일과 비밀번호를 입력하고 로그인 버튼을 누르면 Welcome.js 화면으로 이동합니다.
 
